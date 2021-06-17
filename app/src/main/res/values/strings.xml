@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="file_explorer">File Explorer</string>
+    <string name="home">Home</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="sd_card">SD Card</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="internal_fragment">Internal Fragment</string>
+    <string name="card_fragment">Card Fragment</string>
+    <string name="path">Path/</string>
+    <string name="file_name_png">File name.png</string>
+    <string name="details">Details</string>
+</resources>
